@@ -10,5 +10,6 @@ public class MessageRunner implements CommandLineRunner{
 	public void run(String... args) throws Exception {
 
 		System.out.println("Welcome to Git-Hub");
+		System.out.println("Most Welcome to Git");
 	}
 }
